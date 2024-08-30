@@ -60,6 +60,7 @@ Luego para encontrar la ip asignada por DHCP
 Finalmente se accedió al servidor Apache desde un navegador utilizando la siguiente url:
 
 http://192.168.56.3
+![apache server](/arch-img/apache.jpeg)
 
 ## 🎯 Conclusión
 Esta práctica demostró cómo Vagrant puede automatizar el despliegue de entornos de desarrollo, en este caso, configurando un servidor web Apache en una máquina virtual. El proceso fue exitoso y permitió acceder al servidor web desde la máquina host a través de la IP asignada dinámicamente.
